@@ -14,11 +14,6 @@ nav ul li{
     vertical-align: middle;
 }
 
-.card {
-    color: black;
-}
-
-
 body{
     margin: 0;
     padding: 0;
@@ -30,15 +25,8 @@ h1, h2, p {
     color: black;
 }
 
-header h1 {
-    font-size: 3.25rem;
-    padding: 20px;
-    text-align: center;
-    margin: 0;
-}
-
 footer {
-    text-align: center;
+
     padding: 24px 0;
     background-color:rgba(4, 4, 92, 0.918);
     font: normal normal 300 20px/24px Raleway;
