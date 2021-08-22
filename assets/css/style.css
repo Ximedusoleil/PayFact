@@ -25,10 +25,6 @@ h1, h2, p {
     color: black;
 }
 
-i {
-    ml-auto;
-}
-
 footer {
     padding: 24px 0;
     background-color:rgba(4, 4, 92, 0.918);
