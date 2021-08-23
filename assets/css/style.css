@@ -2,6 +2,7 @@ nav {
     text-align: right;
     position: fixed;
     width: 100vw;
+    background-color:rgba(4, 4, 92, 0.918);
 }
 
 nav ul{
@@ -26,7 +27,7 @@ h1, h2, p {
 }
 
 footer {
-    padding: 24px 0;
+    padding: 24px 24px;
     background-color:rgba(4, 4, 92, 0.918);
     font: normal normal 300 20px/24px Raleway;
     letter-spacing: 0px;
